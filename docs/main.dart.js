@@ -6698,7 +6698,7 @@ o.sJ8(s)
 q=o
 r.K2$=q
 r.K3$=new A.No(A.an(t.lZ))
-q.sxW("https://clear-slate-8b4de92f5776.herokuapp.com")
+q.sxW("https://cloud.busybeapp.com")
 return new A.kY(r)},
 abz(a){return A.avb(a)},
 avb(a){var s=0,r=A.P(t.W_),q
